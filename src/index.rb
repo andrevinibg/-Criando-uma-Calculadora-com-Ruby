@@ -82,7 +82,6 @@ loop do
 
     end
 
-
 # --- PAUSA PARA LEITURA ---
   # Isso impede que a tela limpe muito rápido após mostrar um erro ou resultado
   puts ""
